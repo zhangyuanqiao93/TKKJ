@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "E:\\Data\\Android\\TKKJ\\SweetLibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-w480dp-v13\\values-w480dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "C:\\Users\\TKKJ\\.android\\build-cache\\05e015c7512a13ff81890a78dfb6ef4268ce0a94\\output\\res\\values-w480dp\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 61,
+                        "endOffset": 113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "C:\\Users\\TKKJ\\.android\\build-cache\\05e015c7512a13ff81890a78dfb6ef4268ce0a94\\output\\res\\values-w480dp\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 118,
+                        "endColumn": 71,
+                        "endOffset": 185
+                    }
+                }
+            }
+        ]
+    }
+]
